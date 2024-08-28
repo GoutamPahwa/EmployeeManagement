@@ -15,7 +15,7 @@ Update Employee: Modify the details of an existing employee.
 Delete Employee: Remove an employee from the system.
 RESTful API: The system exposes a RESTful API for all operations, making it easy to integrate with other systems or front-end applications.
 
-===============================================================================================================================================
+===================================================================================================================
 
 
 Technologies Used
@@ -28,7 +28,7 @@ MySQL: The relational database used to store employee data.
 Maven: A build automation tool used to manage dependencies and build the project.
 Lombok: A library that reduces boilerplate code by generating getter, setter, and other utility methods at compile-time.
 
-=================================================================================================================================================
+=================================================================================================================
 
 
 Database Schema
@@ -43,7 +43,7 @@ email	String	Email address of the employee.
 phone	String	Phone number of the employee.
 
 
-====================================================================================
+========================================================================================================
 
 
 Getting Started
@@ -65,7 +65,7 @@ Installation
 -------------
 
 1. Clone the Repository:
-  git clone https://github.com/GoutamPahwa/employee-management.git
+  git clone https://https://github.com/GoutamPahwa/EmployeeManagement
   cd employee-management
 
 2. Set Up MySQL Database:
@@ -82,7 +82,7 @@ Installation
   The application will run on http://localhost:8080.
   Use tools like Postman or cURL to interact with the API endpoints.
 
-=====================================================================================
+======================================================================================================
 
 
 API Endpoints
@@ -92,7 +92,7 @@ GET "/employees" : Retrieve all employees.
 POST "/employees" : Create a new employee.
 DELETE "/employees/{id}" : Delete an employee by ID.
 
-=====================================================================================
+========================================================================================================
 
 
 Example Request
@@ -111,7 +111,7 @@ Content-Type: application/json
 }
 
 
-=======================================================================================
+======================================================================================================
 
 
 Contributing
