@@ -65,7 +65,7 @@ Installation
 -------------
 
 1. Clone the Repository:
-  git clone https://https://github.com/GoutamPahwa/EmployeeManagement
+  git clone https://github.com/GoutamPahwa/EmployeeManagement
   cd employee-management
 
 2. Set Up MySQL Database:
